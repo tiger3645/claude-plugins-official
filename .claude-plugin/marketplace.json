@@ -792,19 +792,6 @@
       "homepage": "https://www.adspirer.com"
     },
     {
-      "name": "railway",
-      "description": "Deploy and manage apps, databases, and infrastructure on Railway. Covers project setup, deploys, environment configuration, networking, troubleshooting, and monitoring.",
-      "category": "deployment",
-      "source": {
-        "source": "url",
-        "url": "railwayapp/railway-skills",
-        "path": "plugins/railway",
-        "ref": "main",
-        "sha": "d52f3741a6a33a3191d6138eb3d6c3355cb970d1"
-      },
-      "homepage": "https://docs.railway.com/ai/claude-code-plugin"
-    },
-    {
       "name": "sourcegraph",
       "description": "Code search and understanding across codebases. Search, read, and trace references across repositories; analyze refactor impact; investigate incidents via commit and diff search; run targeted security sweeps.",
       "category": "development",
@@ -839,19 +826,6 @@
         "sha": "7ef022b02f5296b5ecc52ba0db3ba9345ec03c9e"
       },
       "homepage": "https://github.com/astronomer/agents"
-    },
-    {
-      "name": "legalzoom",
-      "description": "Attorney guidance and legal tools for business and personal needs. AI-powered document review identifies critical risks and important clauses, advises when to engage an attorney, and routes to LegalZoom's network when professional expertise is needed.",
-      "category": "productivity",
-      "source": {
-        "source": "url",
-        "url": "legalzoom/claude-plugins",
-        "path": "plugins/legalzoom",
-        "ref": "main",
-        "sha": "f9fd8a0ca6e1421bc1aacb113a109663a7a6f6d8"
-      },
-      "homepage": "https://www.legalzoom.com/"
     },
     {
       "name": "mintlify",
@@ -934,18 +908,5 @@
       },
       "homepage": "https://github.com/awslabs/agent-plugins"
     },
-    {
-      "name": "zapier",
-      "description": "Connect 8,000+ apps to your AI workflow. Discover, enable, and execute Zapier actions directly from your client.",
-      "category": "productivity",
-      "source": {
-        "source": "url",
-        "url": "zapier/zapier-mcp",
-        "path": "plugins/zapier",
-        "ref": "main",
-        "sha": "b93007e9a726c6ee93c57a949e732744ef5acbfd"
-      },
-      "homepage": "https://github.com/zapier/zapier-mcp/tree/main/plugins/zapier"
-    }
   ]
 }
