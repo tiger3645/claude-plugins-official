@@ -907,6 +907,6 @@
         "ref": "main"
       },
       "homepage": "https://github.com/awslabs/agent-plugins"
-    },
+    }
   ]
 }
